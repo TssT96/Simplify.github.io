@@ -1,0 +1,104 @@
+.navbar.fixed-top.navbar-expand-lg {
+    background-color: #43776e;
+}
+
+.navbar-brand.mb-0.h1
+{
+    color: white;
+}
+
+.nav-link.dropdown-toggle {
+    background-color: #fba094;
+    font-weight: bold;
+}
+
+/* .navbar-brand.mb-0.h1 {
+    font-size: 30px;
+} */
+
+#logo {
+    max-width: 140px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    padding-top: 70px;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-bottom: 100px;
+}
+
+.row {
+    padding-top: 5%;
+    padding-bottom: 2%;
+}
+
+#projectStoryCont {
+    padding-top: 40px;
+    padding-bottom: 30px;
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: #d4e0e2;
+    text-align: center;
+    width: 75%;
+    margin: auto;
+    color: #616a72;
+    border-radius: 15px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#projectStoryTitle {
+    color: #616a72;
+    margin-bottom: 20px;
+    font-family: 'Limelight', cursive;
+}
+
+.navbar.fixed-bottom {
+    background-color: #7d7d7d;
+}
+
+#probSecTitle, 
+#audSecTitle, 
+#rolResSecTitle,
+#scoConsSecTitle,
+#processSecTitle,
+#probIdentSecTitle,
+#findingsSecTitle
+{
+    color: white;
+    background-color: #55837c;
+    width: 35%;
+    padding-top: 0.3%;
+    padding-bottom: 0.3%;
+}
+
+#probIdentSecTitle,
+#comAnaSecTitle,
+#userResPerSecTitle,
+#userStoSecTitle,
+#usaHeuSecTitle,
+#showcaseSecTitle {
+    color: black;
+    background-color: #FBC8C0;
+    width: 50%;
+    padding-top: 0.3%;
+    padding-bottom: 0.3%;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* #processSubSec {
+    background-color: #ffefec;
+} */
+
+#processSubSec:hover {
+    background-color: #ffdbd5;
+}
+
+#footer {
+    font-size: 12px;
+    color: white;
+}
